@@ -193,17 +193,6 @@ echo/
 
 ---
 
-## 🎬 Demo Script
-
-1. **Observe Normal Operations** — Watch 4 agents generate logs in real-time
-2. **See Compression in Action** — Raw logs shrink 10x while preserving meaning
-3. **Trigger Emergency** — Click "🔥 FIRE ALERT" button
-4. **Watch City Brain Think** — Compressed context analyzed instantly
-5. **Hear the Decision** — "Deploy Fire Truck 3 to Sector 7 via Highway B"
-6. **See the Impact** — 67% faster response, 7 days of memory retained
-
----
-
 ## 🏆 Target Hackathon Tracks
 
 | Track | Prize | Why Echo Wins |
@@ -232,18 +221,6 @@ Echo isn't just for cities. The same architecture enables:
 
 ---
 
-## 🚀 Deploy
-
-```bash
-# Deploy to Vercel (recommended)
-npx vercel --prod
-
-# Or build for any platform
-npm run build
-npm start
-```
-
----
 
 ## 🏙️ Built for NexHacks 2026: Turing City
 
