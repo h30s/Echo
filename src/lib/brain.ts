@@ -152,7 +152,7 @@ function generateMockDecision(emergency?: string): BrainDecision {
                 'Public transit capacity increased on alternate routes',
             ],
             reasoning: 'Real-time traffic analysis from past 7 days shows optimal alternate routes. Signal timing adjusted based on historical patterns.',
-            priority: 'high',
+            priority: 'critical',
             affectedSectors: ['Highway A', 'Highway B', 'Highway C'],
             estimatedImpact: 'Congestion reduced by 60% within 20 minutes. Normal flow restored in 1 hour.',
         };
