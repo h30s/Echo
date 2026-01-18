@@ -1,4 +1,4 @@
-# 🧠 ECHO — The Infinite Context City Brain
+# 🧠 ECHO - The Infinite Context City Brain
 
 ### The Memory Layer for Sentient Cities
 
@@ -226,12 +226,12 @@ npm start
 
 ---
 
-## 🏙️ Built for NexHacks 2026 — Turing City
+## 🏙️ Built for NexHacks 2026: Turing City
 
 *"The City Never Forgets."*
 
-**— Echo**
+**Echo**
 
 ---
 
-**Solo Hacker Project** | MIT License
+Built with ❤️ by **Himanshu Soni — aka h30s** | **Solo Hacker Project** | MIT License
