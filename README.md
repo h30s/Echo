@@ -26,7 +26,13 @@
 - 🚨 **Emergency Agent** → monitoring 911 calls
 - 🛡️ **Security Agent** → analyzing 100K cameras
 
-![Architecture Flow](./screenshots/architecture_flow.png)
+
+
+<div align="center">
+  <img src="./screenshots/architecture_flow.png" alt="Architecture Flow" width="400" />
+</div>
+
+
 
 Each agent generates **massive logs every second**. The City Brain has a **limited context window**.
 
@@ -48,7 +54,9 @@ Using **Token Company's bear-1 compression model**, Echo:
 | 4️⃣ **Enable** | City Brain accesses 7 DAYS of historical context |
 | 5️⃣ **Respond** | Instant, informed emergency decisions |
 
-![Compression Impact](./screenshots/compression_impact.png)
+<div align="center">
+  <img src="./screenshots/compression_impact.png" alt="Compression Impact" width="500" />
+</div>
 
 ---
 
@@ -77,7 +85,12 @@ Using **Token Company's bear-1 compression model**, Echo:
 | **Token Usage** | 100% | 10% | 🟢 **90% saved** |
 | **Est. Annual Savings** | — | $2.4M | 💰 |
 
-![Context Timeline](./screenshots/context_timeline.png)
+
+
+<div align="center">
+  <img src="./screenshots/context_timeline.png" alt="Context Timeline" width="500" />
+</div>
+
 
 ---
 
