@@ -1,21 +1,15 @@
-<![CDATA[<div align="center">
-
 # 🧠 ECHO — The Infinite Context City Brain
 
-### *The Memory Layer for Sentient Cities*
+### The Memory Layer for Sentient Cities
 
 **10x Context Compression | 7-Day Memory | Instant Emergency Response**
 
 > *"Without Echo, the City Brain is stateless. With Echo, it becomes **stateful**."*
 
-[![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js%2014-black?style=flat-square&logo=next.js)](https://nextjs.org)
-[![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-4285F4?style=flat-square&logo=google)](https://ai.google.dev)
-[![Compression by Token Company](https://img.shields.io/badge/Compression-bear--1-blueviolet?style=flat-square)](https://tokencompany.ai)
-[![Voice by ElevenLabs](https://img.shields.io/badge/Voice-ElevenLabs-00C7B7?style=flat-square)](https://elevenlabs.io)
-
-[🚀 Live Demo](#) • [📺 Demo Video](#) • [🏆 NexHacks 2026](#)
-
-</div>
+![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js%2014-black?style=flat-square&logo=next.js)
+![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-4285F4?style=flat-square&logo=google)
+![Compression by Token Company](https://img.shields.io/badge/Compression-bear--1-blueviolet?style=flat-square)
+![Voice by ElevenLabs](https://img.shields.io/badge/Voice-ElevenLabs-00C7B7?style=flat-square)
 
 ---
 
@@ -27,12 +21,10 @@
 
 **A Sentient City runs on thousands of AI agents:**
 
-```
-├── 🚗 Traffic Agent       → routing 10M vehicles/day
-├── ⚡ Power Grid Agent    → balancing 500 substations  
-├── 🚨 Emergency Agent     → monitoring 911 calls
-└── 🛡️ Security Agent      → analyzing 100K cameras
-```
+- 🚗 **Traffic Agent** → routing 10M vehicles/day
+- ⚡ **Power Grid Agent** → balancing 500 substations  
+- 🚨 **Emergency Agent** → monitoring 911 calls
+- 🛡️ **Security Agent** → analyzing 100K cameras
 
 Each agent generates **massive logs every second**. The City Brain has a **limited context window**.
 
@@ -58,18 +50,11 @@ Using **Token Company's bear-1 compression model**, Echo:
 
 ## 🔥 The Demo: Fire in Sector 7
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### ❌ WITHOUT ECHO
 - City Brain sees only **5 minutes** of logs
 - Doesn't know Fire Truck 3 was already dispatched
 - Sends wrong truck → **15-minute delay**
 - Response time: **18 minutes**
-
-</td>
-<td width="50%" valign="top">
 
 ### ✅ WITH ECHO  
 - City Brain has **7 DAYS** of compressed context
@@ -77,15 +62,9 @@ Using **Token Company's bear-1 compression model**, Echo:
 - Routes nearest available truck optimally
 - Response time: **6 minutes** (67% faster)
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📊 Impact Metrics
-
-<div align="center">
 
 | Metric | Before Echo | After Echo | Improvement |
 |:------:|:-----------:|:----------:|:-----------:|
@@ -93,8 +72,6 @@ Using **Token Company's bear-1 compression model**, Echo:
 | **Context Window** | 5 min | 7 days | 🟢 **2,016x more** |
 | **Token Usage** | 100% | 10% | 🟢 **90% saved** |
 | **Est. Annual Savings** | — | $2.4M | 💰 |
-
-</div>
 
 ---
 
@@ -249,11 +226,7 @@ npm start
 
 ---
 
-<div align="center">
-
-## 🏙️
-
-**Built for NexHacks 2026 — Turing City**
+## 🏙️ Built for NexHacks 2026 — Turing City
 
 *"The City Never Forgets."*
 
@@ -262,6 +235,3 @@ npm start
 ---
 
 **Solo Hacker Project** | MIT License
-
-</div>
-]]>
