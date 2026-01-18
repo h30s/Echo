@@ -26,6 +26,8 @@
 - 🚨 **Emergency Agent** → monitoring 911 calls
 - 🛡️ **Security Agent** → analyzing 100K cameras
 
+![Architecture Flow](./screenshots/architecture_flow.png)
+
 Each agent generates **massive logs every second**. The City Brain has a **limited context window**.
 
 **Result?** The city develops **amnesia** — it forgets what happened 10 minutes ago. Critical patterns are **lost**. Emergency response **slows down**.
@@ -45,6 +47,8 @@ Using **Token Company's bear-1 compression model**, Echo:
 | 3️⃣ **Preserve** | Maintain 95%+ semantic meaning & key entities |
 | 4️⃣ **Enable** | City Brain accesses 7 DAYS of historical context |
 | 5️⃣ **Respond** | Instant, informed emergency decisions |
+
+![Compression Impact](./screenshots/compression_impact.png)
 
 ---
 
@@ -72,6 +76,8 @@ Using **Token Company's bear-1 compression model**, Echo:
 | **Context Window** | 5 min | 7 days | 🟢 **2,016x more** |
 | **Token Usage** | 100% | 10% | 🟢 **90% saved** |
 | **Est. Annual Savings** | — | $2.4M | 💰 |
+
+![Context Timeline](./screenshots/context_timeline.png)
 
 ---
 
